@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZRY&#39;s Blog</title>
+  <icon>https://blog.zhangruiyang.top/icon.png</icon>
+  <subtitle>Talk everything!</subtitle>
+  <link href="https://blog.zhangruiyang.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.zhangruiyang.top/"/>
+  <updated>2022-06-08T06:21:10.890Z</updated>
+  <id>https://blog.zhangruiyang.top/</id>
+  
+  <author>
+    <name>Zhang Ruiyang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test post</title>
+    <link href="https://blog.zhangruiyang.top/test/"/>
+    <id>https://blog.zhangruiyang.top/test/</id>
+    <published>2022-06-08T05:04:18.221Z</published>
+    <updated>2022-06-08T06:21:10.890Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="nihao"><a href="#nihao" class="headerlink" title="nihao"></a><strong>nihao</strong></h1><div class="admonition todo"><p class="admonition-title">123</p><p>你好</p></div>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;nihao&quot;&gt;&lt;a href=&quot;#nihao&quot; class=&quot;headerlink&quot; title=&quot;nihao&quot;&gt;&lt;/a&gt;&lt;strong&gt;nihao&lt;/strong&gt;&lt;/h1&gt;&lt;div class=&quot;admonition todo&quot;&gt;&lt;p</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>论文学习：促进深度学习的课堂教学策略研究</title>
+    <link href="https://blog.zhangruiyang.top/%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/"/>
+    <id>https://blog.zhangruiyang.top/%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/</id>
+    <published>2022-06-07T12:46:36.888Z</published>
+    <updated>2022-06-08T05:10:39.323Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="促进深度学习的课堂教学策略研究"><a href="#促进深度学习的课堂教学策略研究" class="headerlink" title="促进深度学习的课堂教学策略研究"></a><a href="http://oss.bestcloud.cn/upload/20190619/2e674db570104c5da97d574113b3768a.pdf"><strong>促进深度学习的课堂教学策略研究</strong></a></h1><p><strong>安富海</strong><br>（西北师范大学 西北少数民族教育发展研究中心，甘肃 兰州 ７３００７０）</p><h2 id="摘要："><a href="#摘要：" class="headerlink" title="摘要："></a><strong>摘要：</strong></h2><p>深度学习是一种基于高阶思维发展的理解性学习，具有注重批判理解、<br>强调内容整合、促进知识建构、着意迁移运用等特征。深度学习不仅需要学生积极<br>主动的参与，还需要教师通过确立高阶思维发展的教学目标、整合意义联接的学习<br>内容、创设促进深度学习的真实情景、选择持续关注的评价方式进行积极引导。</p><h2 id="关键词："><a href="#关键词：" class="headerlink" title="关键词："></a><strong>关键词：</strong></h2><p><strong>深度学习</strong>；<strong>浅层学习</strong>；<strong>教学策略</strong></p><span id="more"></span><p>新课程改革以来，课堂教学中的独白和灌输逐渐被 “自主、合作、探究”等新型学习方式所取代，对话成为课堂教学的主旋律。这种新型的对话式的课堂教学模式与传统的授受式的课堂教学模式相比，在学生学习兴趣的激发、学生参与课堂活动的广度和师生合作交流的状态等方面都实现了质的飞跃。但由于教师对新型学习方式的内涵、原理、实施策略等方面理解不到位，使得“自主、合作、探究”等学习方式在实施过程中出现了许多问题。调查发现，许多自称 合 作 性、探究性的课堂上，学生忙碌于各种 “工具”的使用和 “自由”的交流，对于学习活动要解决的核心问题，往往只停留在对过程和步骤的认识层面上。从课 堂 学 习 的 现 状 来 看，和传统的死记硬背、机械训练的学习相比，“自主、合作、探究”等学习方式改变的仅仅是学生记忆知识的愉悦程度，并没有体现出对新型学习方式所强调的自主学习的能力、合作学习的意识、科学探究的精神的重视。这种只关注外在形式、忽视其精神实质的学习过程并没有使学生真正理解知识、体验情感、践行价值观，而仅仅使学生记住了知识、认识了情感、了解了价值观。这种基于简单记忆和重复训练的浅层学习对于促进学生理解知识、建构意义、解决问题等能力的发展有很大的局限。本研究拟针对这一问题，运用深度学习的原理分析浅层学习存在的问题及原因，进而从教师的角度探讨促进学生深度学习的策略。</p><h1 id="一、深度学习的内涵"><a href="#一、深度学习的内涵" class="headerlink" title="一、深度学习的内涵"></a><strong>一、深度学习的内涵</strong></h1><p>深度学习理论认为学习既是个体感知、记忆、思维等认知过程，也是根植于社会文化、历史背景、现实生活的社会建构过程。［１］深 度 学 习（ｄｅｅｐｌｅａｒｎｉｎｇ）也 被 译 为 深 层 学 习，是 美 国 学者 ＦｅｒｅｎｃｅＭａｒｔｏｎ和 ＲｏｇｅｒＳａｌｊｏ基于学生阅读的实验，针对孤立记忆和非批判性接受知识的浅层学习 （ｓｕｒｆａｃｅｌｅａｒｎｉｎｇ），于１９７６年首次提出的关于学习层次的一 个概念。［２］事 实 上，早 在１９５６年布 卢 姆 在 其 《教 育 目 标 分 类 学》中 关 于认知维度层次的划分中就已蕴含了 “学习有深浅层 次 之 分 ”［３］７０－８０ 的 观 点。Ｆｅｒｅｎｃｅ Ｍａｒｔｏｎ 和ＲｏｇｅｒＳａｌｊｏ借 鉴 了 布 卢 姆 认 知 维 度 层 次 划 分 理论，创造性地提出了深度学习的概念并借助实验推进了深度学习的研究。此后，许多研究者开始关注深度 学 习，Ｂｉｇｇｓ和 Ｃｏｌｌｉｓ （１９８２）、Ｒａｍｓ－ｄｅｎ （１９８８）、Ｅｎｔｗｉｓｔｌｅ （１９９７，２００１） 等 学 者都从不同角度发展了深度学习的相关 理 论。［４］近年来，深度学习愈来愈受到教育研究者的关注，２００６年，加拿大多伦多大学 Ｈｉｎｔｏｎ教授和他的学生Ｓａｌａｋｈｕｔｄｉｎｏｖ在 《科学》上发表 了 一 篇 关于深度学习的文章，开启了２１世纪深度学习在学术界的 浪 潮。２０１３年１月，在 中 国 最 大 的 互联网搜索引擎公司百度的年会上，创始人兼首席执行官李彦宏高调宣布要成立百度研究院，其中第一个重点研究方向是深度学习，并为此成立深度学习研究院 （ＩＤＬ）。２０１３年４月，《麻省理工学院技术评论》 （ＭＩＴＴｅｃｈｎｏｌｏｇｙ Ｒｅｖｉｅｗ）杂志将深度学习列为２０１３ 年十大突破性技术之首。［５］虽然他们对于深度学习概念的界定不尽相同，但在深度学习与浅层学习的差异性以及深度学习的本质理解上，基本达成了共识。按照布卢姆认知领域学 习 目 标 分 类 所 对 应 的 “记 忆、理 解、应用、分 析、 评 价 及 创 造” 这 六 个 层 次，［３］７５浅层 学 习 的 认 知 水 平 只 停 留 在 “知 道、 理 解 ”这 两 个 层 次， 主 要 是 知 识 的 简 单 描 述、 记 忆或 复 制； 而 深 度 学 习 的 认 知 水 平 则 对 应 “应用、分 析、评 价、创 造”这 四 个 较 高 级 的 认 知层 次，不 只 涉 及 记 忆， 还注重知识的应用和问 题 的 解 决。 因 而， 较 为 直 观 的 表 达 为： 浅层 学 习 处 于 较 低 的 认 知 水 平， 是 一 种 低 级 认知 技 能 的 获 得， 涉 及 低 阶 思 维 活 动； 而 深 度学 习 则 处 于 高 级 的 认 知 水 平， 面 向 高 级 认 知技 能 的 获 得， 涉 及 高 阶 思 维 （ｈｉｇｈｅｒ－ｏｒｄｅｒｔｈｉｎｋｉｎｇ）活 动。 高 阶 思 维 是 深 度 学 习 的 核 心特 征，发展高阶思维能力有助于实现深度学习，同时深度学习又有助于促进学习者高阶思 维 能 力 的 发 展。 深度学习是一种以促进学生批判性思维和创新精神发 展为目的的学习，它不仅强调学习者积极主动的学习状态、 知识 整 合 和 意 义 联 接 的 学 习内容、举一反三的学习方法，还强调学生高阶思维和复杂问题解决能力的提升。深度学习不仅关注学习结果，也重视学习状态和学习过程。鉴于以上认识，本研究认为，深度学习是一种基于理解的学习，是指学习者以高阶思维的发展和实际问题的解决为目标，以整合的知识为内容，积极主动地、批判性地学习新的知识和思想，并将它们融入原有的认知结构中，且能将已有的知识迁移到新的情境中的一种学习。</p><h1 id="二、深度学习的特征"><a href="#二、深度学习的特征" class="headerlink" title="二、深度学习的特征"></a><strong>二、深度学习的特征</strong></h1><p>深度学习与浅层学习在学习目标、知识呈现方式、学习者的学习状态和学习结果的迁移等方面都有 明 显 的 差 异。其 特 点 主 要 表 现 在 四 个 方面。第一，深度学习注重知识学习的批判理解。深度学习是一种基于理解的学习，强调学习者批判性地学习新知识和思想，要求学习者对任何学习材料保持一种批判或怀疑的态度，批判性地看待新知识并深入思考，并把它们纳入原有的认知结构中，在各种观点之间建立多元联接，要求学习者在理解事物的基础上善于质疑辨析，在质疑辨析中加深对深层知识和复杂概念的 理 解。［６］第二，深度学习强调学习内容的有机整合。学习内容的整合 包 括 内 容 本 身 的 整 合 和 学 习 过 程 的 整合。其中内容本身的整合是指多种知识和信息间的联接，包括多学科知识融合及新旧知识联系。深度学习提倡将新概念与已知概念和原理联系起来，整合到原有的认知结构中，从而引起对新的知识信息的理解、长期保持及迁移应用。学习过程的整合是指形成内容整合的认知策略和元认知策略，使其存储在长时记忆中，如利用图表、概念图等方式利于梳理新旧知识之间的联系。而浅层学习将知识看成是孤立的、无联系的单元来接受和记忆，不能促进对知识的理解和长期保持。第三，深度学习着意学习过程的建构反思。建构反思是指学习者在知识整合的基础上通过新、旧经验的双向相互作用实现知识的同化和顺应，调整原有 认 知 结 构，并 对 建 构 产 生 的 结 果 进 行 审视、分析、调整的过程。这不仅要求学习者主动地对新知识作出理解和判断，运用原有的知识经验对新概念 （原理）或问题进行分析、鉴别、评价，形成自我对知识的理解，建构新知序列，而且还需要不断对自我建构结果审视反思、吐故纳新，形成对学习积极主动的检查、评 价、调 控、改造。可以说，建构反思是深度学习和浅层学习的本质区别。第四，深度学习重视学习的迁移运用和问题解决。深度学习要求学习者对学习情境的深入理解，对关键要素的判断和把握，在相似情境能够做到 “举一 反 三”，也 能 在 新 情 境 中 分析判断差异并将原则思路迁移运用。如不能将知识运用到新情境中来解决问题，那么学习者的学习就只 是 简 单 的 复 制、机 械 的 记 忆、肤 浅 的 理解，仍停留在浅层学习的水平上。深度学习的另一个重要目标是创造性地解决现实问题。一般来说，现实的问题不是那种套用规则和方法就能够解决的良构领域 （ｗｅｌｌ－ｓｔｒｕｃｔｕｒｅｄｄｏｍａｉｎ）的问题，而是 结 构 分 散、规则冗杂的劣构领域 （ｉｌｌ－ｓｔｒｕｃｔｕｒｅｄｄｏｍａｉｎ）的 问 题。［７］要 解 决 这 种 劣 构领域的问题不仅需要我们掌握原理及其适切的场域，还要求我们能运用原理分析问题并创造性地解决问题。</p><h1 id="三、浅层学习的表现及批判"><a href="#三、浅层学习的表现及批判" class="headerlink" title="三、浅层学习的表现及批判"></a><strong>三、浅层学习的表现及批判</strong></h1><p>浅层学习是指学习者在外力驱动的基础上，通过简单描述、重复记忆和强化训练等方式学习新知识 和 思 想 的 一 种 学 习 形 式。其 特 征 是：第一，浅层学习是一种基于外在动机的学习。浅层学习是在外在任务的驱动下，被动地、消极地进行的一种学习，考试的内容是浅层学习最主要的目标，等级评分是促进浅层学习最有效的方法。第二，浅层学习是一种基于记忆的学习。一般来说，浅层学习仅仅停留在 “知道和领会”的认知层面，很少或不重视将学习的新知识与已有知识经验联系起来，在已有知识结构的基础上建构新知识。这样的学习导致为了考试而对材料进行表面的、短时的记忆，不能促进对知识和信息的理解和长 期 保 持，也不能促进学生高阶思维的发展。浅层学习在我国当前中小学课堂学习中表现比较突出，其形式主要包括以下几个方面。</p><h2 id="（一）学习目标方面"><a href="#（一）学习目标方面" class="headerlink" title="（一）学习目标方面"></a><strong>（一）学习目标方面</strong></h2><p>新课程改革以后， “三维目标”取代了 “双基”，成为教师教学和学生学习最主要的参考标准。新课程之所以提出三维目标，意在纠正过去我国在主知主义课程观下单纯注重知识传授，忽视学生心灵的弊端。但 由 于 教 师 对 “三 维 目 标”的理解和实施存在问题，致使 “三维目标”的落实大打折扣。 “‘知 识 与 技 能’被 僵 化 或 虚 化，‘过程与方法’被简单应对或错误实施，‘情感态度与价值观’被标 签 化”。课 程 目 标 按 照 “三 维目标”的分类方式来叙述，主要是引导教师转变传统教学方式，注重学生的主体性，更好地实现课程目标。［８］然 而，自 “三 维 目 标”提 出 后，许多教师纷纷将 “三维目标”视为教学目标，认为教学目标包括 “知识与技能目标、过程与方法目标、情感态度与价值观目标”三个维度。在平时的教学设计中，教师也习惯把教学目标分解成三大类：知识与技能、过程与方法、情感态度与价值观。这种分类陈述的前提假设就是可以将课堂教学的内容按照三维目标分为三类，并将课堂教学也分为知识与技能目标达成、过程与方法目标达成、情感态度与价值观目标达成三个阶段，千方百计地将教学目标的三个维度与教学内容生搬硬套在一起，引导学生按部就班地进行学习。然而，看似结构完整、条理清晰的目标设定和实施过程，由于缺乏对三维目标分类本身的准确把握和恰当的执行，致使学生的学习结果呈现出令人担忧的现实，不仅过程与方法、情感态度与价值观两维课程改革特别强调的目标流于形式，就连我们曾引以为豪的知识与技能目标的达成也仅限于浅层。也就是说，不仅没有实现布卢姆所说的“应用、分析、评价及创造”的目标，就 连 “记忆和理解”层面目标也达成得不够理想。有些学习甚至处在 “零学习”［３］４９的状态。</p><h2 id="（二）学习内容方面"><a href="#（二）学习内容方面" class="headerlink" title="（二）学习内容方面"></a><strong>（二）学习内容方面</strong></h2><p>新课程改革淡化了学科领域内的 “双基”要求，加强了课程内容与学生生活以及社会科技发展的联系，关注了学生的学习兴趣和经验，提出了课程综合化的方向，并在一定范围内设置了综合课程，减 少 了 学 科 门 类，强调了学科间的联系，重组了课程内容，并按照知识技能的相关性将学生原有的过于分化的学习内容统整为几种学习领域，将原有的分科课程统整为包容性更强的学科，以实践活动的方式组织课程内 容。然 而，走进课堂我们发现，加强课程与学生生活联系的理念已被教师所接受，但这种接受仅限于理念层面和蜻蜓点水式的课堂举例；以实践的方式组织课程内容的观念也已被教师认同，但这种认同也仅仅体现在 “公开课”上的 “表演”中。教师引导学生学习的方法没有发生根本性的变化，没有将所学的新内容与已知概念和原理联系起来，帮助学生将 新 学 习 的 内 容 整 合 到 原 有 的 认 知 结 构中，并在此基础上建立新的、更为复杂的认知结构，从而引起对新的知识的理解和意义的建构，而是仍然沿袭着过去接受记忆、强化训练的指导模式。因此，虽然课程文本的内容得到了整合，课程内容的组织形式也发生了变化，但由于教师引导学生学习知识的方式没有变化，知识仍然以彼此独立、互不相干的面孔呈现在学生面前。表面上看似每节课都达到了预设的教学目标，然而，由于学生所学的新知识与原有的知识没有基于逻辑建立起联系，没有将新知识纳入学生已有的认知结构，没有建构起属于学生自己的知识网络，所以这种虽然掌握了知识，但不能运用知识去解决问题，不能把知识迁移到新情景的学习，注定走不出 “机械学习”的阴影。</p><h1 id="就复制到这里吧"><a href="#就复制到这里吧" class="headerlink" title="就复制到这里吧"></a><strong>就复制到这里吧</strong></h1>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;促进深度学习的课堂教学策略研究&quot;&gt;&lt;a href=&quot;#促进深度学习的课堂教学策略研究&quot; class=&quot;headerlink&quot; title=&quot;促进深度学习的课堂教学策略研究&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://oss.bestcloud.cn/upload/20190619/2e674db570104c5da97d574113b3768a.pdf&quot;&gt;&lt;strong&gt;促进深度学习的课堂教学策略研究&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;安富海&lt;/strong&gt;&lt;br&gt;（西北师范大学 西北少数民族教育发展研究中心，甘肃 兰州 ７３００７０）&lt;/p&gt;
+&lt;h2 id=&quot;摘要：&quot;&gt;&lt;a href=&quot;#摘要：&quot; class=&quot;headerlink&quot; title=&quot;摘要：&quot;&gt;&lt;/a&gt;&lt;strong&gt;摘要：&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;深度学习是一种基于高阶思维发展的理解性学习，具有注重批判理解、&lt;br&gt;强调内容整合、促进知识建构、着意迁移运用等特征。深度学习不仅需要学生积极&lt;br&gt;主动的参与，还需要教师通过确立高阶思维发展的教学目标、整合意义联接的学习&lt;br&gt;内容、创设促进深度学习的真实情景、选择持续关注的评价方式进行积极引导。&lt;/p&gt;
+&lt;h2 id=&quot;关键词：&quot;&gt;&lt;a href=&quot;#关键词：&quot; class=&quot;headerlink&quot; title=&quot;关键词：&quot;&gt;&lt;/a&gt;&lt;strong&gt;关键词：&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;深度学习&lt;/strong&gt;；&lt;strong&gt;浅层学习&lt;/strong&gt;；&lt;strong&gt;教学策略&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="论文学习" scheme="https://blog.zhangruiyang.top/categories/thesis-study/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.zhangruiyang.top/tags/deep-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论文学习：深度学习研究综述</title>
+    <link href="https://blog.zhangruiyang.top/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0/"/>
+    <id>https://blog.zhangruiyang.top/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0/</id>
+    <published>2022-06-07T12:36:41.143Z</published>
+    <updated>2022-06-08T05:43:18.020Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="深度学习研究综述"><a href="#深度学习研究综述" class="headerlink" title="深度学习研究综述"></a><a href="http://www.globalhha.com/doclib/data/upload/doc_con/5c22fe40b7531.pdf"><strong>深度学习研究综述</strong></a></h1><p>(1．电子工程学院，合肥 230037; 2．安徽省电子制约技术重点实验室，合肥 230037)</p><h2 id="摘-要"><a href="#摘-要" class="headerlink" title="摘 要:"></a><strong>摘 要:</strong></h2><p>深度学习是一类新兴的多层神经网络学习算法，因其缓解了传统训练算法的局部最小性，引起机器学习领域的广泛关注。首先论述了深度学习兴起渊源，分析了算法的优越性，并介绍了主流学习算法及应用现状，最后总结了当前存在的问题及发展方向。</p><h2 id="关键词"><a href="#关键词" class="headerlink" title="关键词:"></a><strong>关键词:</strong></h2><p><strong>深度学习</strong>; <strong>分布式表示</strong>; <strong>深信度网络</strong>; <strong>卷积神经网络</strong>; <strong>深凸网络</strong></p><span id="more"></span><h1 id="0-引言"><a href="#0-引言" class="headerlink" title="0 引言"></a><strong>0 引言</strong></h1><p>深度学习的概念源于人工神经网络的研究，含多隐层的多层感知器( MLP) 就是一种深度学习结构。深度学习通过组合低层特征形成更加抽象的高层表示( 属性类别或特征) ，以发现数据的分布式特征表示［1］。BP 算法作为传统训练多层网络的典型算法，实际上对于仅含几层网络，该训练方法就已很不理想［2］。深度结构( 涉及多个非线性处理单元层) 非凸目标代价函数中普遍存在的局部最小是训练困难的主要来源。</p><p>Hinton 等人［3 ～ 5］基于深信度网( DBN) 提出非监督贪心逐层训练算法，为解决深层结构相关的优化难题带来希望，随后提出多层自动编码器深层结构。此外 Lecun 等人提出的卷积神经网络( CNNs) 是第一个真正多层结构学习算法［6］，它利用空间相对关系减少参数数目以提高 BP 训练性能。此外深度学习还出现许多变形结构如去噪自动编码器［7］、DCN［8］、sumproduct[9］等。</p><p>当前多数分类、回归等学习方法为浅层结构算法，其局限性在于有限样本和计算单元情况下对复杂函数的表示能力有限，针对复杂分类问题其泛化能力受到一定制约［2］。深度学习可通过学习一种深层非线性网络结构，实现复杂函数逼近，表征输入数据分布式表示，并展现了强大的从少数样本集中学习数据集本质特征的能力［1，10］。本文意在向读者介绍这一刚刚兴起的深度学习新技术。</p><h1 id="1-深度学习神经学启示及理论依据"><a href="#1-深度学习神经学启示及理论依据" class="headerlink" title="1 深度学习神经学启示及理论依据"></a><strong>1 深度学习神经学启示及理论依据</strong></h1><h2 id="1-1-深度学习神经学启示"><a href="#1-1-深度学习神经学启示" class="headerlink" title="1. 1 深度学习神经学启示"></a><strong>1. 1 深度学习神经学启示</strong></h2><p>尽管人类每时每刻都要面临着大量的感知数据，却总能以一种灵巧方式获取值得注意的重要信息。模仿人脑那样高效准确地表示信息一直是人工智能研究领域的核心挑战。神经科学研究人员利用解剖学知识发现哺乳类动物大脑表示信息的方式: 通过感官信号从视网膜传递到前额大脑皮质再到运动神经的时间，推断出大脑皮质并未直接地对数据进行特征提取处理，而是使接收到的刺激信号通过一个复杂的层状网络模型，进而获取观测数据展现的规则［11 ～ 13］。也就是说，人脑并不是直接根据外部世界在视网膜上投影，而是根据经聚集和分解过程处理后的信息来识别物体。因此视皮层的功能是对感知信号进行特征提取和计算，而不仅仅是简单地重现视网膜的图像［14］。人类感知系统这种明确的层次结构极大地降低了视觉系统处理的数据量，并保留了物体有用的结构信息。对于要提取具有潜在复杂结构规则的自然图像、视频、语音和音乐等结构丰富数据，深度学习能够获取其本质特征。</p><h1 id="就复制到这里"><a href="#就复制到这里" class="headerlink" title="就复制到这里"></a><strong>就复制到这里</strong></h1>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;深度学习研究综述&quot;&gt;&lt;a href=&quot;#深度学习研究综述&quot; class=&quot;headerlink&quot; title=&quot;深度学习研究综述&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.globalhha.com/doclib/data/upload/doc_con/5c22fe40b7531.pdf&quot;&gt;&lt;strong&gt;深度学习研究综述&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;(1．电子工程学院，合肥 230037; 2．安徽省电子制约技术重点实验室，合肥 230037)&lt;/p&gt;
+&lt;h2 id=&quot;摘-要&quot;&gt;&lt;a href=&quot;#摘-要&quot; class=&quot;headerlink&quot; title=&quot;摘 要:&quot;&gt;&lt;/a&gt;&lt;strong&gt;摘 要:&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;深度学习是一类新兴的多层神经网络学习算法，因其缓解了传统训练算法的局部最小性，引起机器学习领域的广泛关注。首先论述了深度学习兴起渊源，分析了算法的优越性，并介绍了主流学习算法及应用现状，最后总结了当前存在的问题及发展方向。&lt;/p&gt;
+&lt;h2 id=&quot;关键词&quot;&gt;&lt;a href=&quot;#关键词&quot; class=&quot;headerlink&quot; title=&quot;关键词:&quot;&gt;&lt;/a&gt;&lt;strong&gt;关键词:&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;深度学习&lt;/strong&gt;; &lt;strong&gt;分布式表示&lt;/strong&gt;; &lt;strong&gt;深信度网络&lt;/strong&gt;; &lt;strong&gt;卷积神经网络&lt;/strong&gt;; &lt;strong&gt;深凸网络&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="论文学习" scheme="https://blog.zhangruiyang.top/categories/thesis-study/"/>
+    
+    
+    <category term="深度学习" scheme="https://blog.zhangruiyang.top/tags/deep-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论文学习：一种改进的动物线粒体DNA提取方法</title>
+    <link href="https://blog.zhangruiyang.top/%E4%B8%80%E7%A7%8D%E6%94%B9%E8%BF%9B%E7%9A%84%E5%8A%A8%E7%89%A9%E7%BA%BF%E7%B2%92%E4%BD%93DNA%E6%8F%90%E5%8F%96%E6%96%B9%E6%B3%95/"/>
+    <id>https://blog.zhangruiyang.top/%E4%B8%80%E7%A7%8D%E6%94%B9%E8%BF%9B%E7%9A%84%E5%8A%A8%E7%89%A9%E7%BA%BF%E7%B2%92%E4%BD%93DNA%E6%8F%90%E5%8F%96%E6%96%B9%E6%B3%95/</id>
+    <published>2022-06-07T12:31:44.955Z</published>
+    <updated>2022-06-08T05:10:54.663Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一种改进的动物线粒体DNA提取方法"><a href="#一种改进的动物线粒体DNA提取方法" class="headerlink" title="一种改进的动物线粒体DNA提取方法"></a><strong>一种改进的动物线粒体DNA提取方法</strong></h1><p><a href="http://www.cqvip.com/qikan/Detail.aspx?gch=95457X&amp;years=1993&amp;num=02">《动物学研究》1993年 第2期</a> | <a href="http://www.cqvip.com/main/search.aspx?w=%E7%8E%8B%E6%96%87">王文</a> <a href="http://www.cqvip.com/main/search.aspx?w=%E6%96%BD%E7%AB%8B%E6%98%8E">施立明</a>   <a href="http://www.cqvip.com/main/search.aspx?o=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%98%86%E6%98%8E%E5%8A%A8%E7%89%A9%E7%A0%94%E7%A9%B6%E6%89%80%E7%BB%86%E8%83%9E%E4%B8%8E%E5%88%86%E5%AD%90%E8%BF%9B%E5%8C%96%E5%BC%80%E6%94%BE%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4">中国科学院昆明动物研究所细胞与分子进化开放研究实验室</a></p><span id="more"></span><h2 id="论文服务："><a href="#论文服务：" class="headerlink" title="论文服务："></a><strong>论文服务：</strong></h2><p><strong>摘　要：</strong><br>线粒体DNA(mtDNA)已被广泛用于动物群体遗传学和进化生物学的研究,并取得了许多有意义的结果。有效的mtDNA提取方法无疑是开展这方面研究的前提。关于动物mtDNA的提取方法,国内外已有不少报导。概括起来,可分为:1)氯化铯超速离心法,2)柱层析法,3)DNase法,4)碱变性法。本文报道了一种改进的碱变性提取法,与其它方法相比,具有应用范围广、简便、经济等优点。</p><p><strong>【分　类】</strong>【生物科学】 &gt; 生物化学 &gt; 核酸 &gt; 脱氧核糖核酸（DNA）</p><p><strong>【关键词】</strong>MTDNA 碱变性提取法 线粒体 DNA</p><p><strong>【出　处】</strong>《动物学研究》1993年 第2期 197-198页 共2页</p><p><strong>【收　录】</strong>中文科技期刊数据库</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一种改进的动物线粒体DNA提取方法&quot;&gt;&lt;a href=&quot;#一种改进的动物线粒体DNA提取方法&quot; class=&quot;headerlink&quot; title=&quot;一种改进的动物线粒体DNA提取方法&quot;&gt;&lt;/a&gt;&lt;strong&gt;一种改进的动物线粒体DNA提取方法&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://www.cqvip.com/qikan/Detail.aspx?gch=95457X&amp;amp;years=1993&amp;amp;num=02&quot;&gt;《动物学研究》1993年 第2期&lt;/a&gt; | &lt;a href=&quot;http://www.cqvip.com/main/search.aspx?w=%E7%8E%8B%E6%96%87&quot;&gt;王文&lt;/a&gt; &lt;a href=&quot;http://www.cqvip.com/main/search.aspx?w=%E6%96%BD%E7%AB%8B%E6%98%8E&quot;&gt;施立明&lt;/a&gt;   &lt;a href=&quot;http://www.cqvip.com/main/search.aspx?o=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%98%86%E6%98%8E%E5%8A%A8%E7%89%A9%E7%A0%94%E7%A9%B6%E6%89%80%E7%BB%86%E8%83%9E%E4%B8%8E%E5%88%86%E5%AD%90%E8%BF%9B%E5%8C%96%E5%BC%80%E6%94%BE%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4&quot;&gt;中国科学院昆明动物研究所细胞与分子进化开放研究实验室&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="论文学习" scheme="https://blog.zhangruiyang.top/categories/thesis-study/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>论文学习：叶绿体基因组研究进展</title>
+    <link href="https://blog.zhangruiyang.top/%E5%8F%B6%E7%BB%BF%E4%BD%93%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95/"/>
+    <id>https://blog.zhangruiyang.top/%E5%8F%B6%E7%BB%BF%E4%BD%93%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95/</id>
+    <published>2022-06-07T12:24:11.993Z</published>
+    <updated>2022-06-08T05:10:48.781Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="叶绿体基因组研究进展"><a href="#叶绿体基因组研究进展" class="headerlink" title="叶绿体基因组研究进展"></a><strong>叶绿体基因组研究进展</strong></h1><p><a href="http://www.cqvip.com/qk/94860x/200801/26345485.html">《生物化学与生物物理进展》2008年 第1期 | 邢少辰 CLARKE JIHONG LIU   吉林省农业科学院生物技术研究中心 长春130124 Department of Genetics and Biotechnolosy Plant Health ＆ Protection Division Norwegian Institute for Agricultural ＆ Environmental Research N-1432 As Norway</a></p><span id="more"></span><h2 id="论文服务："><a href="#论文服务：" class="headerlink" title="论文服务："></a><strong>论文服务：</strong></h2><p><strong>摘　要：</strong><br>作为植物细胞器的重要组成部分和光合作用的器官,叶绿体在生物进化的漫长历史中发挥了重要作用.伴随着生物技术的深入发展,人们发现叶绿体基因组结构和序列的信息在揭示物种起源、进化演变及其不同物种之间的亲缘关系等方面具有重要价值.与此同时,比核转化具有明显优势的叶绿体转化技术在遗传改良、生物制剂的生产等方面显示出巨大潜力,而叶绿体基因组结构和序列分析则是叶绿体转化的基石.基于叶绿体的这些重要作用,收集整理了有关的资料,从几个方面归纳了本领域最近的研究进展,希望能使读者对迅速发展的叶绿体基因组研究有更全面的了解,以及对叶绿体基因组在物种的进化、遗传、系统发育关系等方面的作用有更深刻的认识,同时也希望对叶绿体转化技术的研究和广泛应用产生积极作用.</p><p><strong>【分　类】</strong><a href="http://www.cqvip.com/main/search.aspx?c=Q">【生物科学】</a> &gt; <a href="http://www.cqvip.com/main/search.aspx?c=Q1">普通生物学</a> &gt; <a href="http://www.cqvip.com/main/search.aspx?c=Q11">生物演化与发展</a></p><p><strong>【关键词】</strong>叶绿体基因组 起源 进化 转化 进展</p><p><strong>【出　处】</strong>《生物化学与生物物理进展》2008年 第1期 21-28页 共8页</p><p><strong>【收　录】</strong>中文科技期刊数据库</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;叶绿体基因组研究进展&quot;&gt;&lt;a href=&quot;#叶绿体基因组研究进展&quot; class=&quot;headerlink&quot; title=&quot;叶绿体基因组研究进展&quot;&gt;&lt;/a&gt;&lt;strong&gt;叶绿体基因组研究进展&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://www.cqvip.com/qk/94860x/200801/26345485.html&quot;&gt;《生物化学与生物物理进展》2008年 第1期 | 邢少辰 CLARKE JIHONG LIU   吉林省农业科学院生物技术研究中心 长春130124 Department of Genetics and Biotechnolosy Plant Health ＆ Protection Division Norwegian Institute for Agricultural ＆ Environmental Research N-1432 As Norway&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="论文学习" scheme="https://blog.zhangruiyang.top/categories/thesis-study/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.zhangruiyang.top/hello-world/"/>
+    <id>https://blog.zhangruiyang.top/hello-world/</id>
+    <published>2022-06-07T07:21:21.197Z</published>
+    <updated>2022-06-08T05:11:03.598Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="呃，密码不对" data-whm="文章hash校验失败">  <script id="hbeData" type="hbeData" data-hmacdigest="115916326c1c244b15189ea603c643ae2cdd0d9e93dbd3a99b4fec454ba02457">062abe200145744a53a3f6c39ec2813cc5e5ee72a8b1b4ea2c7ba20f302489de99fc44af9804618ff7ce940c29536c07c3803f1bcd1256210c426e7d3afdfd773d2ff309484e1203243ee50101948d7c26d88e6d0d9c2d534d958807b0e68bbc4d3b9dc7228bfc43d46d26ab5e4186077bf53af813e6e61271068c7a5dd97e1d386cf0de3f4b6d6541ff86acc87b4c0ba66c86f9a3814c402cabe0fba40f9d371d18586e427607d7defe9bf65dda293158ef8ce90c361e63ccabd9543e5e99b335c308a6c1ec902ac5f4f33a70a04fac90f6984ad67a2776ead27f4eb9135213a0b518f1d3428b1dddd65289ac078a483822d5b330d7b7edd6d610ba1751bcd808e8ac45b200b0c1dfdb1bd43830a58b1ff6bbe7830570ff842415ad7af2ae7b8ee8bdaee63bc2828a7538b236836da9c999c7eae87ca7d5666f226bc07abdfe656bd9467b8d96c1b5eae07c35e56c72719561b65958ae82624e1967d8a463a62830f9022c49e891041a1936f1604e216aca04579bdcd4d2bce9d4c2eb7b373967e82da941bbcc90027e54e0eb159601cc433c54c42b66c524f13485fb5802cbb1be6852b1a243d270f2277b1ac912a5b4352ba489d239dd292efc8e29aba6249a0a426cc7014092ac8d6c5b494e78e6328f5c41d1b176a93d5ce747a7b0e3623c4c270c67d7deda995efe28da41073c1be363d8dd01ef8cff357a77bf1d7debdab8a099229ba0258d79822290cd3617b0fa4cc883ba068e9f964bcd07d94b3d0df183ec3b0095f453b70a5308ca87b0f3551878f222287f9ab1dcc888e4ff204a1a7648f3ee5f6183540b69fcd1f22aa3d9c007bddeda9fb06e779a7e927603cf77d122fe284abc88fc5f36ef24f530364eadae978d5c5db5735fe49d0082d9311f5581efbe7cb0a07133b1deb703b7b0db9dccf0469a8af81a39dd486617a97ddcc56572cff145bc21a657146b70dfd91b06c18c6c89dc1e3809e579bba2ca79868ab93d8194902fe2ad951fa0fbece83111ff871e317ad1593fb738ce007b63b7584c1061a0b5e8424696107c83acf804ba9993c781dc2230bf7819670b0c783f793a4f679ce5843b1e6570be4aa57dcd4d2aa412dec072c8b8f3b3ed97900d2095318834f1e9f03cd56372c798af0695963ee710bd4448bd61d1c5fbd44201897f0b4083d404d93ca2438d65f6a3f713fa9602d3c3d1b7d6f34e4cc02a56b15e10c794bed002272d95dd4e4a11e3cb95d1e350ea9ecaf4dec4b7dd68c437af6d8c4746ce51241fb6f52efea95248fdcbf6ae8d4bb2583cb6c33b1dba4952d42601b95dc48c1246e874f42828b65cc652fd0afeae7f9b53c69f174b08ea8e7e9772995f6d9521ed14652bcedbc624d7bb891d806589392675459538eaa43d1196cbcba4e29acb588a7e4540957b6d2807578ff0d6d14f7c3fe46181a0cf4f3b5695474924a12d3b58be3f117c485b6bb2e8ec4ae5e074eefe6fb5d4a5a95e78c967f8bed13aa11775d79eeb3c323f74494b53ca6e313afefbed7931bc0ecf833c063600978693437eef9946dc77e694770cf8351f714a2c53f84feecfb6a5ab8b8f5846c898bee56153ca3be682524ba19f7e0577a2772e3ceddfac2e9245b6c606c6741238fe4be4d4c82633c760b3bd7b5a59f9ea380c8a66798025aa21efbdd7a23682d2e22656e6f27252a99547349a4072e39ffb7bc939b028d8900a074c86403ee52766366952da53298d9d7462bc256a729ad6852c81ce34b8a9bb329c4f68b01cfd0667f7d36d877e2f0de1835f4a56be67801a3607d2c19c30e1833c74b9c3ec00ae1fdb0a9ea9f3c1b0bff44a0f28f3dba16642280547cf520f3140a92b245b6c1b583149b63eaa6ed7ff2dd9b950a4aaa8f0bee1b629323ef60486d360b6d5b581e96d877fb8c88af4f6d19a246ba58f5897e68781a8a6fc2c60297e2987d28cfbcc4a6538aed525e50edfdc5f3717131429f9a2361fd497afa86f076f26af4cbddc0ff6b002a8ce06e884dfac96903530df3f90816df00e37f697c0b7d68d9ca3c27733b4a3acab3b489eb6b93b023ac51784f3185204fb7e4dff5819bdc0e34136e0d2ab06cea1795c38b8cd49ce5dbf971ae7a7aeae91174a8ee71e63c43e3957b624c0ffa4e8c4e97dda830523967240af10d78671753d0f3f48480b4fbed58c578d7e29005f883155914ad1b82de3d54d92c265c9c4ca8485bb9f570e7e7ce54df6c245134d417fa51e05f68c30c56ff49139c6e9b69677a3e8c54f70be1431bc18a374f14ca4f1cc6257dbe566610e80a9f8133ac91f71ce65be82631b96d78a30bc9809a790590eb42d0edcbb40cd15077641613fe4221fa50afd02b73a9f4f990c914433f85cff881a7a44f07ca827d318537d3b04926a5dec2460380eb8201271042fc501918057e26bdb7f780cb4b44329fec11dd2cf212cd01fbff2f8085547a5ad9a4fc8ea114e9924d3c3c35a1a5b0dbdc333a66421d9ea9c51118c4de50e4aa36a5be75be83001bd9c7fe93bf384561c2b12778e5261219ba1ff2b809538af8a008b9257a143cb10554c10e4d2a470c661a6b05cdcf9b16e3f74c09c70870f01400390860fbab1c055135ab341842df6c922cdb6004c64b7776772db987bd36ac90f609aacb493313e6d71d0facecc782c94997afa7c5f965abaaab0cf652e7e0a02cb7d47ae4103d3c44e0d8b9d96c920edd1a7104af84dc3868ca16bc6ee71248b971dd006930dee3cf4e89dce67a90f61d27d109451779f93add1ae830e274e247cb3b6264939b6d42ae6c3be1f504090f99e4d8fed27fdd34254e620a5c3429f4cb8b3af881c3ba4e43b89ab95788fe5b8aa709866b9482867a34ffae22a76de6e501ea5a6390919c4fd5a1354be9202db1dccf610314231c17b46590dd1bc18215c022cb11d90db5b455ba3017d686db5fd6693e14018de9dcf0834ed694815677c7159a3eed610e43b9faf28ebd59ead93044d593c48d7e49f1192a153650a22176b22b298bf18bfaa42c80c18b2e2bd4f7dba7c369d8111249e4c397926f0a7ba1b697bc6bda15a427f9f6486850f2a4ef751546d6e719d23c61838883104ba9e0b68f4c0ae39304d6251e92178fb498557d2df49f88d4985690686beeac419eb3303b3833e6efe89836ed5c8f54d880b06c1ce236716238f78172b534f39c6e81493beddc1f7b36333b5aeed918f92dc3fc12d7ccc1444754973233a79e00a62490aff0eecb36be41bd8ecf4cf0ce0e2e2fcade2241bf2d3f174219178e60496b42aa6b30f9d27c9856970219ec3faed92e8e2f66d8d096b8c71b027defd</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-wave">      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">需要密码才能查看这篇文章</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">仅用于测试</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
