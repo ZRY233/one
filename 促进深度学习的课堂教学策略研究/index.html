@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#49a394">
+<meta name="generator" content="Hexo 6.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#49a394">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-material.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"blog.zhangruiyang.top","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":true},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="促进深度学习的课堂教学策略研究安富海（西北师范大学 西北少数民族教育发展研究中心，甘肃 兰州 ７３００７０） 摘要：深度学习是一种基于高阶思维发展的理解性学习，具有注重批判理解、强调内容整合、促进知识建构、着意迁移运用等特征。深度学习不仅需要学生积极主动的参与，还需要教师通过确立高阶思维发展的教学目标、整合意义联接的学习内容、创设促进深度学习的真实情景、选择持续关注的评价方式进行积极引导。 关键词">
+<meta property="og:type" content="article">
+<meta property="og:title" content="论文学习：促进深度学习的课堂教学策略研究">
+<meta property="og:url" content="https://blog.zhangruiyang.top/%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/">
+<meta property="og:site_name" content="ZRY&#39;s Blog">
+<meta property="og:description" content="促进深度学习的课堂教学策略研究安富海（西北师范大学 西北少数民族教育发展研究中心，甘肃 兰州 ７３００７０） 摘要：深度学习是一种基于高阶思维发展的理解性学习，具有注重批判理解、强调内容整合、促进知识建构、着意迁移运用等特征。深度学习不仅需要学生积极主动的参与，还需要教师通过确立高阶思维发展的教学目标、整合意义联接的学习内容、创设促进深度学习的真实情景、选择持续关注的评价方式进行积极引导。 关键词">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2022-06-07T12:46:36.888Z">
+<meta property="article:modified_time" content="2022-06-08T02:45:06.894Z">
+<meta property="article:author" content="Zhang Ruiyang">
+<meta property="article:tag" content="深度学习">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://blog.zhangruiyang.top/%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/ilyabirman-likely@2/release/likely.min.css"><link rel="stylesheet" href="//cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.css"><style>
+#needsharebutton-postbottom {
+  cursor: pointer;
+  height: 26px;
+  margin-top: 10px;
+  position: relative;
+}
+#needsharebutton-postbottom .btn {
+  border: 1px solid $btn-default-border-color;
+  border-radius: 3px;
+  display: initial;
+  padding: 1px 4px;
+}
+</style><style>
+#needsharebutton-float {
+  bottom: 88px;
+  cursor: pointer;
+  left: -8px;
+  position: fixed;
+  z-index: 9999;
+}
+#needsharebutton-float .btn {
+  border: 1px solid $btn-default-border-color;
+  border-radius: 4px;
+  padding: 0 10px 0 14px;
+}
+</style><link rel="stylesheet" href="//cdn.jsdelivr.net/npm/social-share.js@1.0.16/dist/css/share.min.css">
+  <title>论文学习：促进深度学习的课堂教学策略研究 | ZRY's Blog</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">ZRY's Blog</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">Talk everything!</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-主页">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>主页</a>
+
+  </li>
+        <li class="menu-item menu-item-友链">
+
+    <a href="/friendlinks/" rel="section"><i class="fa fa-link fa-fw"></i>友链</a>
+
+  </li>
+        <li class="menu-item menu-item-关于">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-标签">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-分类">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-归档">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-赞助">
+
+    <a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>赞助</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="reading-progress-bar"></div>
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://blog.zhangruiyang.top/%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/tou.jpg">
+      <meta itemprop="name" content="Zhang Ruiyang">
+      <meta itemprop="description" content="这是ZRY的个人博客">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ZRY's Blog">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          论文学习：促进深度学习的课堂教学策略研究
+        </h1>
+
+        <div class="post-meta">
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-06-07 20:46:36" itemprop="dateCreated datePublished" datetime="2022-06-07T20:46:36+08:00">2022-06-07</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2022-06-08 10:45:06" itemprop="dateModified" datetime="2022-06-08T10:45:06+08:00">2022-06-08</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/thesis-study/" itemprop="url" rel="index"><span itemprop="name">论文学习</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+              <span>4.8k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+              <span>4 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="促进深度学习的课堂教学策略研究"><a href="#促进深度学习的课堂教学策略研究" class="headerlink" title="促进深度学习的课堂教学策略研究"></a><a target="_blank" rel="noopener" href="http://oss.bestcloud.cn/upload/20190619/2e674db570104c5da97d574113b3768a.pdf"><strong>促进深度学习的课堂教学策略研究</strong></a></h1><p><strong>安富海</strong><br>（西北师范大学 西北少数民族教育发展研究中心，甘肃 兰州 ７３００７０）</p>
+<h2 id="摘要："><a href="#摘要：" class="headerlink" title="摘要："></a><strong>摘要：</strong></h2><p>深度学习是一种基于高阶思维发展的理解性学习，具有注重批判理解、<br>强调内容整合、促进知识建构、着意迁移运用等特征。深度学习不仅需要学生积极<br>主动的参与，还需要教师通过确立高阶思维发展的教学目标、整合意义联接的学习<br>内容、创设促进深度学习的真实情景、选择持续关注的评价方式进行积极引导。</p>
+<h2 id="关键词："><a href="#关键词：" class="headerlink" title="关键词："></a><strong>关键词：</strong></h2><p><strong>深度学习</strong>；<strong>浅层学习</strong>；<strong>教学策略</strong></p>
+<span id="more"></span>
+<p>新课程改革以来，课堂教学中的独白和灌输逐渐被 “自主、合作、探究”等新型学习方式所取代，对话成为课堂教学的主旋律。这种新型的对话式的课堂教学模式与传统的授受式的课堂教学模式相比，在学生学习兴趣的激发、学生参与课堂活动的广度和师生合作交流的状态等方面都实现了质的飞跃。但由于教师对新型学习方式的内涵、原理、实施策略等方面理解不到位，使得“自主、合作、探究”等学习方式在实施过程中出现了许多问题。调查发现，许多自称 合 作 性、探究性的课堂上，学生忙碌于各种 “工具”的使用和 “自由”的交流，对于学习活动要解决的核心问题，往往只停留在对过程和步骤的认识层面上。从课 堂 学 习 的 现 状 来 看，和传统的死记硬背、机械训练的学习相比，“自主、合作、探究”等学习方式改变的仅仅是学生记忆知识的愉悦程度，并没有体现出对新型学习方式所强调的自主学习的能力、合作学习的意识、科学探究的精神的重视。这种只关注外在形式、忽视其精神实质的学习过程并没有使学生真正理解知识、体验情感、践行价值观，而仅仅使学生记住了知识、认识了情感、了解了价值观。这种基于简单记忆和重复训练的浅层学习对于促进学生理解知识、建构意义、解决问题等能力的发展有很大的局限。本研究拟针对这一问题，运用深度学习的原理分析浅层学习存在的问题及原因，进而从教师的角度探讨促进学生深度学习的策略。</p>
+<h1 id="一、深度学习的内涵"><a href="#一、深度学习的内涵" class="headerlink" title="一、深度学习的内涵"></a><strong>一、深度学习的内涵</strong></h1><p>深度学习理论认为学习既是个体感知、记忆、思维等认知过程，也是根植于社会文化、历史背景、现实生活的社会建构过程。［１］深 度 学 习（ｄｅｅｐｌｅａｒｎｉｎｇ）也 被 译 为 深 层 学 习，是 美 国 学者 ＦｅｒｅｎｃｅＭａｒｔｏｎ和 ＲｏｇｅｒＳａｌｊｏ基于学生阅读的实验，针对孤立记忆和非批判性接受知识的浅层学习 （ｓｕｒｆａｃｅｌｅａｒｎｉｎｇ），于１９７６年首次提出的关于学习层次的一 个概念。［２］事 实 上，早 在１９５６年布 卢 姆 在 其 《教 育 目 标 分 类 学》中 关 于认知维度层次的划分中就已蕴含了 “学习有深浅层 次 之 分 ”［３］７０－８０ 的 观 点。Ｆｅｒｅｎｃｅ Ｍａｒｔｏｎ 和ＲｏｇｅｒＳａｌｊｏ借 鉴 了 布 卢 姆 认 知 维 度 层 次 划 分 理论，创造性地提出了深度学习的概念并借助实验推进了深度学习的研究。此后，许多研究者开始关注深度 学 习，Ｂｉｇｇｓ和 Ｃｏｌｌｉｓ （１９８２）、Ｒａｍｓ－ｄｅｎ （１９８８）、Ｅｎｔｗｉｓｔｌｅ （１９９７，２００１） 等 学 者都从不同角度发展了深度学习的相关 理 论。［４］近年来，深度学习愈来愈受到教育研究者的关注，２００６年，加拿大多伦多大学 Ｈｉｎｔｏｎ教授和他的学生Ｓａｌａｋｈｕｔｄｉｎｏｖ在 《科学》上发表 了 一 篇 关于深度学习的文章，开启了２１世纪深度学习在学术界的 浪 潮。２０１３年１月，在 中 国 最 大 的 互联网搜索引擎公司百度的年会上，创始人兼首席执行官李彦宏高调宣布要成立百度研究院，其中第一个重点研究方向是深度学习，并为此成立深度学习研究院 （ＩＤＬ）。２０１３年４月，《麻省理工学院技术评论》 （ＭＩＴＴｅｃｈｎｏｌｏｇｙ Ｒｅｖｉｅｗ）杂志将深度学习列为２０１３ 年十大突破性技术之首。［５］虽然他们对于深度学习概念的界定不尽相同，但在深度学习与浅层学习的差异性以及深度学习的本质理解上，基本达成了共识。按照布卢姆认知领域学 习 目 标 分 类 所 对 应 的 “记 忆、理 解、应用、分 析、 评 价 及 创 造” 这 六 个 层 次，［３］７５浅层 学 习 的 认 知 水 平 只 停 留 在 “知 道、 理 解 ”这 两 个 层 次， 主 要 是 知 识 的 简 单 描 述、 记 忆或 复 制； 而 深 度 学 习 的 认 知 水 平 则 对 应 “应用、分 析、评 价、创 造”这 四 个 较 高 级 的 认 知层 次，不 只 涉 及 记 忆， 还注重知识的应用和问 题 的 解 决。 因 而， 较 为 直 观 的 表 达 为： 浅层 学 习 处 于 较 低 的 认 知 水 平， 是 一 种 低 级 认知 技 能 的 获 得， 涉 及 低 阶 思 维 活 动； 而 深 度学 习 则 处 于 高 级 的 认 知 水 平， 面 向 高 级 认 知技 能 的 获 得， 涉 及 高 阶 思 维 （ｈｉｇｈｅｒ－ｏｒｄｅｒｔｈｉｎｋｉｎｇ）活 动。 高 阶 思 维 是 深 度 学 习 的 核 心特 征，发展高阶思维能力有助于实现深度学习，同时深度学习又有助于促进学习者高阶思 维 能 力 的 发 展。 深度学习是一种以促进学生批判性思维和创新精神发 展为目的的学习，它不仅强调学习者积极主动的学习状态、 知识 整 合 和 意 义 联 接 的 学 习内容、举一反三的学习方法，还强调学生高阶思维和复杂问题解决能力的提升。深度学习不仅关注学习结果，也重视学习状态和学习过程。鉴于以上认识，本研究认为，深度学习是一种基于理解的学习，是指学习者以高阶思维的发展和实际问题的解决为目标，以整合的知识为内容，积极主动地、批判性地学习新的知识和思想，并将它们融入原有的认知结构中，且能将已有的知识迁移到新的情境中的一种学习。</p>
+<h1 id="二、深度学习的特征"><a href="#二、深度学习的特征" class="headerlink" title="二、深度学习的特征"></a><strong>二、深度学习的特征</strong></h1><p>深度学习与浅层学习在学习目标、知识呈现方式、学习者的学习状态和学习结果的迁移等方面都有 明 显 的 差 异。其 特 点 主 要 表 现 在 四 个 方面。第一，深度学习注重知识学习的批判理解。深度学习是一种基于理解的学习，强调学习者批判性地学习新知识和思想，要求学习者对任何学习材料保持一种批判或怀疑的态度，批判性地看待新知识并深入思考，并把它们纳入原有的认知结构中，在各种观点之间建立多元联接，要求学习者在理解事物的基础上善于质疑辨析，在质疑辨析中加深对深层知识和复杂概念的 理 解。［６］第二，深度学习强调学习内容的有机整合。学习内容的整合 包 括 内 容 本 身 的 整 合 和 学 习 过 程 的 整合。其中内容本身的整合是指多种知识和信息间的联接，包括多学科知识融合及新旧知识联系。深度学习提倡将新概念与已知概念和原理联系起来，整合到原有的认知结构中，从而引起对新的知识信息的理解、长期保持及迁移应用。学习过程的整合是指形成内容整合的认知策略和元认知策略，使其存储在长时记忆中，如利用图表、概念图等方式利于梳理新旧知识之间的联系。而浅层学习将知识看成是孤立的、无联系的单元来接受和记忆，不能促进对知识的理解和长期保持。第三，深度学习着意学习过程的建构反思。建构反思是指学习者在知识整合的基础上通过新、旧经验的双向相互作用实现知识的同化和顺应，调整原有 认 知 结 构，并 对 建 构 产 生 的 结 果 进 行 审视、分析、调整的过程。这不仅要求学习者主动地对新知识作出理解和判断，运用原有的知识经验对新概念 （原理）或问题进行分析、鉴别、评价，形成自我对知识的理解，建构新知序列，而且还需要不断对自我建构结果审视反思、吐故纳新，形成对学习积极主动的检查、评 价、调 控、改造。可以说，建构反思是深度学习和浅层学习的本质区别。第四，深度学习重视学习的迁移运用和问题解决。深度学习要求学习者对学习情境的深入理解，对关键要素的判断和把握，在相似情境能够做到 “举一 反 三”，也 能 在 新 情 境 中 分析判断差异并将原则思路迁移运用。如不能将知识运用到新情境中来解决问题，那么学习者的学习就只 是 简 单 的 复 制、机 械 的 记 忆、肤 浅 的 理解，仍停留在浅层学习的水平上。深度学习的另一个重要目标是创造性地解决现实问题。一般来说，现实的问题不是那种套用规则和方法就能够解决的良构领域 （ｗｅｌｌ－ｓｔｒｕｃｔｕｒｅｄｄｏｍａｉｎ）的问题，而是 结 构 分 散、规则冗杂的劣构领域 （ｉｌｌ－ｓｔｒｕｃｔｕｒｅｄｄｏｍａｉｎ）的 问 题。［７］要 解 决 这 种 劣 构领域的问题不仅需要我们掌握原理及其适切的场域，还要求我们能运用原理分析问题并创造性地解决问题。</p>
+<h1 id="三、浅层学习的表现及批判"><a href="#三、浅层学习的表现及批判" class="headerlink" title="三、浅层学习的表现及批判"></a><strong>三、浅层学习的表现及批判</strong></h1><p>浅层学习是指学习者在外力驱动的基础上，通过简单描述、重复记忆和强化训练等方式学习新知识 和 思 想 的 一 种 学 习 形 式。其 特 征 是：第一，浅层学习是一种基于外在动机的学习。浅层学习是在外在任务的驱动下，被动地、消极地进行的一种学习，考试的内容是浅层学习最主要的目标，等级评分是促进浅层学习最有效的方法。第二，浅层学习是一种基于记忆的学习。一般来说，浅层学习仅仅停留在 “知道和领会”的认知层面，很少或不重视将学习的新知识与已有知识经验联系起来，在已有知识结构的基础上建构新知识。这样的学习导致为了考试而对材料进行表面的、短时的记忆，不能促进对知识和信息的理解和长 期 保 持，也不能促进学生高阶思维的发展。浅层学习在我国当前中小学课堂学习中表现比较突出，其形式主要包括以下几个方面。</p>
+<h2 id="（一）学习目标方面"><a href="#（一）学习目标方面" class="headerlink" title="（一）学习目标方面"></a><strong>（一）学习目标方面</strong></h2><p>新课程改革以后， “三维目标”取代了 “双基”，成为教师教学和学生学习最主要的参考标准。新课程之所以提出三维目标，意在纠正过去我国在主知主义课程观下单纯注重知识传授，忽视学生心灵的弊端。但 由 于 教 师 对 “三 维 目 标”的理解和实施存在问题，致使 “三维目标”的落实大打折扣。 “‘知 识 与 技 能’被 僵 化 或 虚 化，‘过程与方法’被简单应对或错误实施，‘情感态度与价值观’被标 签 化”。课 程 目 标 按 照 “三 维目标”的分类方式来叙述，主要是引导教师转变传统教学方式，注重学生的主体性，更好地实现课程目标。［８］然 而，自 “三 维 目 标”提 出 后，许多教师纷纷将 “三维目标”视为教学目标，认为教学目标包括 “知识与技能目标、过程与方法目标、情感态度与价值观目标”三个维度。在平时的教学设计中，教师也习惯把教学目标分解成三大类：知识与技能、过程与方法、情感态度与价值观。这种分类陈述的前提假设就是可以将课堂教学的内容按照三维目标分为三类，并将课堂教学也分为知识与技能目标达成、过程与方法目标达成、情感态度与价值观目标达成三个阶段，千方百计地将教学目标的三个维度与教学内容生搬硬套在一起，引导学生按部就班地进行学习。然而，看似结构完整、条理清晰的目标设定和实施过程，由于缺乏对三维目标分类本身的准确把握和恰当的执行，致使学生的学习结果呈现出令人担忧的现实，不仅过程与方法、情感态度与价值观两维课程改革特别强调的目标流于形式，就连我们曾引以为豪的知识与技能目标的达成也仅限于浅层。也就是说，不仅没有实现布卢姆所说的“应用、分析、评价及创造”的目标，就 连 “记忆和理解”层面目标也达成得不够理想。有些学习甚至处在 “零学习”［３］４９的状态。</p>
+<h2 id="（二）学习内容方面"><a href="#（二）学习内容方面" class="headerlink" title="（二）学习内容方面"></a><strong>（二）学习内容方面</strong></h2><p>新课程改革淡化了学科领域内的 “双基”要求，加强了课程内容与学生生活以及社会科技发展的联系，关注了学生的学习兴趣和经验，提出了课程综合化的方向，并在一定范围内设置了综合课程，减 少 了 学 科 门 类，强调了学科间的联系，重组了课程内容，并按照知识技能的相关性将学生原有的过于分化的学习内容统整为几种学习领域，将原有的分科课程统整为包容性更强的学科，以实践活动的方式组织课程内 容。然 而，走进课堂我们发现，加强课程与学生生活联系的理念已被教师所接受，但这种接受仅限于理念层面和蜻蜓点水式的课堂举例；以实践的方式组织课程内容的观念也已被教师认同，但这种认同也仅仅体现在 “公开课”上的 “表演”中。教师引导学生学习的方法没有发生根本性的变化，没有将所学的新内容与已知概念和原理联系起来，帮助学生将 新 学 习 的 内 容 整 合 到 原 有 的 认 知 结 构中，并在此基础上建立新的、更为复杂的认知结构，从而引起对新的知识的理解和意义的建构，而是仍然沿袭着过去接受记忆、强化训练的指导模式。因此，虽然课程文本的内容得到了整合，课程内容的组织形式也发生了变化，但由于教师引导学生学习知识的方式没有变化，知识仍然以彼此独立、互不相干的面孔呈现在学生面前。表面上看似每节课都达到了预设的教学目标，然而，由于学生所学的新知识与原有的知识没有基于逻辑建立起联系，没有将新知识纳入学生已有的认知结构，没有建构起属于学生自己的知识网络，所以这种虽然掌握了知识，但不能运用知识去解决问题，不能把知识迁移到新情景的学习，注定走不出 “机械学习”的阴影。</p>
+<h1 id="就复制到这里吧"><a href="#就复制到这里吧" class="headerlink" title="就复制到这里吧"></a><strong>就复制到这里吧</strong></h1>
+    </div>
+
+    
+    
+    <div class="post-widgets">
+    <div class="likely">
+        <div class="twitter">Tweet</div>
+        <div class="facebook">Share</div>
+        <div class="linkedin">Link</div>
+        <div class="gplus">Plus</div>
+        <div class="vkontakte">Share</div>
+        <div class="odnoklassniki">Class</div>
+        <div class="telegram">Send</div>
+        <div class="whatsapp">Send</div>
+        <div class="pinterest">Pin</div>
+    </div>
+  </div>
+  <script src="//cdn.jsdelivr.net/npm/ilyabirman-likely@2/release/likely.min.js"></script><div class="post-widgets">
+      <div id="needsharebutton-postbottom">
+        <span class="btn">
+          <i class="fa fa-share-alt" aria-hidden="true"></i>
+        </span>
+      </div>
+    </div><div class="post-widgets">
+    <div
+      class="social-share"
+      
+        data-sites="weibo,qq,wechat,tencent,douban,qzone,linkedin,diandian,facebook,twitter,google"
+      
+      
+        data-wechat-qrcode-title="share.title"
+      
+      
+        data-wechat-qrcode-helper="share.prompt"
+      
+    >
+    </div>
+  </div>
+  <script src="//cdn.jsdelivr.net/npm/social-share.js@1/dist/js/social-share.min.js"></script>
+        <div class="reward-container">
+  <div>请给我钱</div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      <div style="display: inline-block;">
+        <img src="/images/wx.png" alt="Zhang Ruiyang 微信支付">
+        <p>微信支付</p>
+      </div>
+      <div style="display: inline-block;">
+        <img src="/images/zfb.jpg" alt="Zhang Ruiyang 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>Zhang Ruiyang
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="https://blog.zhangruiyang.top/%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/" title="论文学习：促进深度学习的课堂教学策略研究">https://blog.zhangruiyang.top/促进深度学习的课堂教学策略研究/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+        
+
+  <div class="followme">
+    <p>欢迎关注我的其它发布渠道</p>
+
+    <div class="social-list">
+
+        <div class="social-item">
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+
+            <span class="label">RSS</span>
+          </a>
+        </div>
+    </div>
+  </div>
+
+
+      <footer class="post-footer">
+          
+          <div class="post-tags">
+              <a href="/tags/deep-learning/" rel="tag"><i class="fa fa-tag"></i> 深度学习</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0/" rel="prev" title="论文学习：深度学习研究综述">
+      <i class="fa fa-chevron-left"></i> 论文学习：深度学习研究综述
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BF%83%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6"><span class="nav-number">1.</span> <span class="nav-text">促进深度学习的课堂教学策略研究</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%91%98%E8%A6%81%EF%BC%9A"><span class="nav-number">1.1.</span> <span class="nav-text">摘要：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B3%E9%94%AE%E8%AF%8D%EF%BC%9A"><span class="nav-number">1.2.</span> <span class="nav-text">关键词：</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%86%85%E6%B6%B5"><span class="nav-number">2.</span> <span class="nav-text">一、深度学习的内涵</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%89%B9%E5%BE%81"><span class="nav-number">3.</span> <span class="nav-text">二、深度学习的特征</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E6%B5%85%E5%B1%82%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%A1%A8%E7%8E%B0%E5%8F%8A%E6%89%B9%E5%88%A4"><span class="nav-number">4.</span> <span class="nav-text">三、浅层学习的表现及批判</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%EF%BC%88%E4%B8%80%EF%BC%89%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87%E6%96%B9%E9%9D%A2"><span class="nav-number">4.1.</span> <span class="nav-text">（一）学习目标方面</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%EF%BC%88%E4%BA%8C%EF%BC%89%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9%E6%96%B9%E9%9D%A2"><span class="nav-number">4.2.</span> <span class="nav-text">（二）学习内容方面</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%B0%B1%E5%A4%8D%E5%88%B6%E5%88%B0%E8%BF%99%E9%87%8C%E5%90%A7"><span class="nav-number">5.</span> <span class="nav-text">就复制到这里吧</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=290 height=52 src="//music.163.com/outchain/player?type=2&id=386844&auto=0&height=32"></iframe>
+
+
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Zhang Ruiyang"
+      src="/images/tou.jpg">
+  <p class="site-author-name" itemprop="name">Zhang Ruiyang</p>
+  <div class="site-description" itemprop="description">这是ZRY的个人博客</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives">
+          <span class="site-state-item-count">5</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/ZRY233" title="Github → https:&#x2F;&#x2F;github.com&#x2F;ZRY233" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>Github</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:zhangruiyang233@gmail.com" title="Email → mailto:zhangruiyang233@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>Email</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/ZRY233" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;ZRY233" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.facebook.com/ZRY233" title="Fackbook → https:&#x2F;&#x2F;www.facebook.com&#x2F;ZRY233" rel="noopener" target="_blank"><i class="fab fa-facebook fa-fw"></i>Fackbook</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/zhangruiyang100" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;zhangruiyang100" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+  <div class="cc-license motion-element" itemprop="license">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" class="cc-opacity" rel="noopener" target="_blank"><img src="/images/cc-by-nc-sa.svg" alt="Creative Commons"></a>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://blog.zhangruiyang.top/" title="https:&#x2F;&#x2F;blog.zhangruiyang.top">国际通用博客(blog)</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://blogcn.zhangruiyang.top/" title="https:&#x2F;&#x2F;blogcn.zhangruiyang.top" rel="noopener" target="_blank">中国特供博客(blogcn)</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+        <div class="back-to-top motion-element">
+          <i class="fa fa-arrow-up"></i>
+          <span>0%</span>
+        </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2015 – 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">请给我钱</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-area"></i>
+    </span>
+    <span title="站点总字数">7k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="站点阅读时长">7 分钟</span>
+</div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+<script src="/js/bookmark.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+<div id="needsharebutton-float">
+      <span class="btn">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </span>
+    </div>
+  <script src="//cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.js"></script>
+  <script>
+      pbOptions = {};
+        pbOptions.iconStyle = "box";
+        pbOptions.boxForm = "horizontal";
+        pbOptions.position = "bottomCenter";
+        pbOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      new needShareButton('#needsharebutton-postbottom', pbOptions);
+      flOptions = {};
+        flOptions.iconStyle = "box";
+        flOptions.boxForm = "horizontal";
+        flOptions.position = "middleRight";
+        flOptions.networks = "Weibo,Wechat,Douban,QQZone,Twitter,Facebook";
+      new needShareButton('#needsharebutton-float', flOptions);
+  </script>
+</body>
+</html>
