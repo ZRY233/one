@@ -20,9 +20,9 @@
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>test post</title>
     <url>/test/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="nihao"><a href="#nihao" class="headerlink" title="nihao"></a><strong>nihao</strong></h1>]]></content>
   </entry>
   <entry>
     <title>论文学习：促进深度学习的课堂教学策略研究</title>
